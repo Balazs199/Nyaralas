@@ -14,13 +14,14 @@ h1{
 
 img{
     border: 1px solid black;
+    filter: brightness(0.85);
 }
 
 .bg-image{
     height: 150bh;
     width: 150vw;
     object-fit: cover;
-    filter: brightness(0.7);
+    filter: brightness(0.6);
     position: fixed;
     top: 0;
     left: 0;
